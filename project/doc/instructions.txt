@@ -1,0 +1,26 @@
+Projeto CAL 2019/20 - Turma 6 Grupo 6 
+Bernardo Ramalho
+Francisco Goncalves
+Martim Silva
+
+========== MANUAL DE INSTRUCOES | INSTRUCTIONS ==========
+
+O menu tem algumas nuances importantes de serem referidas.
+
+- Por exemplo, a opcao 4 permite testar as iteracoes desenvolvidas pelo grupo,
+sendo que a configuracao do conjunto de carrinhas (wagons) vem inicialmente
+com um total de 2 carrinhas ambas com capacidade 5, permitindo testar diretamente a iteracao 3.
+A iteracao 1 e 2 nunca tem qualquer entrave ao testar ja que as opcoes no menu escrevem por cima
+do conteudo do conjunto wagons, satisfazendo as restricoes impostas pelas iteracoes 1 e 2.
+Ao serem feitas estas alteracoes a configuracao das carrinhas passa a ser invalida para a iteracao 3,
+sendo necessario adicionar wagons (um total de pelo menos duas) de capacidade maior que 1 para correr
+a iteracao 3, que representa a solucao final do nosso problema.
+
+- O menu permite regressar ao menu anterior escrevendo 'back' em qualquer situacao de input. 
+
+- Para um funcionamento bom e agradavel recomendamos escolher a opcao 8 para nao ver/esperar pelos grafos
+do GraphViewer, seguido de opcao 1, para ler o grafo. Aqui deve-se introduzir o nome da cidade portuguesa 
+ou 'NxN', em que N representa um nº natural ou especificar um caminho para um grafo (com o prefixo 'maps/').
+De seguida deve pre processar-se o grafo com a opcao 2, fazendo uso da keyword 'central' no sub-menu 2.
+Logo a seguir o grafo esta pronto para ser usado para visualizar solucoes em funcao de pedidos e/ou de caminhos
+mais curtos entre dois vertices (atraves dos seus IDs).
