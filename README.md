@@ -1,12 +1,33 @@
-# CAL 2019-20
+# Meat Wagons
 
-**2019/2020** - 3rd Year, 2st Semester
+## Gallery
 
-**Course:** [Concepção e Análise de Algoritmos](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436441) | [_Algorithm Design and Analysis_](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436441)
+### Menu
 
-**Developpers and owners:**
-- [Bernardo Ramalho](https://github.com/bencx)
-- [Francisco Gonçalves](https://github.com/kiko-g)
-- [Martim Silva](https://github.com/motapinto)
+<p align="center">
+  <img src="doc/img/menu.JPG" alt="Menu Image"/>
+</p>
 
+### Shortest Path (Bidirectional A\*)
+
+<p align="center">
+  <img src="doc/img/bidirectional.JPG" alt="Shortest Path Image"/>
+</p>
+
+### Deliveries
+
+<p align="center">
+  <img src="doc/img/deliveries.JPG" alt="Deliveries Image"/>
+</p>
+
+## Development
+
+[Documentation](doc/report2.pdf)
+
+### Technologies
+
+- C++
+- [GraphViewer](https://github.com/STEMS-group/GraphViewer)
+
+**Note** - If you'll use an IDEA to try it, make sure the working directory ends in /meat-wagons \
 **Disclaimer** - This repository was created for educational purposes and we do not take any responsibility for anything related to its content. You are free to use any code or algorithm you find, but do so at your own risk.
